@@ -5,7 +5,7 @@ A serverless application built on AWS that automates the customer verification p
 
 
 ## Architecture
-![Architecture Diagram](images/CustomerOnboardingApp-Architecture.png)
+![Architecture Diagram](images/customeronboardingapp-architecture.jpg)
 
 
 ### AWS Services Used

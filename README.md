@@ -3,8 +3,6 @@
 ## Project Overview
 A serverless application built on AWS that automates the customer verification process using document validation, face comparison, and license verification. The application uses various AWS services to create a robust, scalable, and secure customer onboarding workflow.
 
-### Prerequisites
-
 
 ## Architecture
 ![Architecture Diagram](images/CustomerOnboardingApp-Architecture.png)
